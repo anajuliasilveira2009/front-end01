@@ -64,3 +64,13 @@ border-color: #c78c19;
 .produtos li: :hover h2{
   font: size 34px;
 }
+footer{
+  text-align: center;
+  background: url("bg.jpg");
+padding: 40px;
+}
+.copyright{
+  color: #ffffff;
+  font-style: 13px;
+  margin: 20px 0 0;
+}
