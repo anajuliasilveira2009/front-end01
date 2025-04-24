@@ -52,25 +52,25 @@ nav a{
   margin-top: 10px;
 }
 nav a:hover{
-  color: #c78cc7;
+  color:#c78c19;
   text-decoration: underline;
 }
-.produtos list:hover{
-border-color: #c78c19;
+.produtos li:hover{
+  border-color: #c78c19;
 }
-.produtos li:ctive{
-  border: color #088c19;
+.produtos li:active{
+  border-color: #088c19;
 }
-.produtos li: :hover h2{
-  font: size 34px;
+.produtos li:hover h2{
+  font-size: 34px;
 }
 footer{
   text-align: center;
-  background: url("bg.jpg");
-padding: 40px;
+  background: #cccccc;
+  padding: 40px;
 }
 .copyright{
-  color: #ffffff;
-  font-style: 13px;
+  color:#ffffff;
+  font-size: 13px;
   margin: 20px 0 0;
 }
