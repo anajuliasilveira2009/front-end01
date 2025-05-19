@@ -146,3 +146,11 @@ td, th{
     margin:0 0 lem;
     clear:left;
 }
+
+.principal p{
+    margin: 0 0 lem;
+}
+
+.principal strong{
+    font-weight: bold;
+}
